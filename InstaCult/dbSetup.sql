@@ -64,3 +64,6 @@ VALUES
     UPDATE cults SET
     memberCount = memberCount +1
     WHERE id = 1;
+
+
+SELECT * from accounts;
